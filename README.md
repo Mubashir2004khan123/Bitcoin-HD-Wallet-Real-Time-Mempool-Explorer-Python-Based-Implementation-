@@ -278,6 +278,11 @@ This project is developed for the **LG-9 Blockchain Technologies** course.
 
 This is an academic project for educational purposes.
 
+## 👏 Contributors
+
+- **Mubashir2004khan123** - Main Author
+- **MohSaifTech** - Contributor
+
 ## 👏 Acknowledgments
 
 - Bitcoin Core Team
